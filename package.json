@@ -1,0 +1,17 @@
+{
+  "name": "react-flash",
+  "version": "1.0.0",
+  "description": "A self destructing react flash component",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dave Jungst",
+  "homepage": "https://github.com/wdjungst/react-flash55",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wdjungst/react-flash55"
+  },
+  "license": "MIT"
+}
